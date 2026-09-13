@@ -1,0 +1,36 @@
+2026-09-13 04:53:11.502: [INFO] CurrentProfilePath: C:\Users\anjal\AppData\Local\Temp\flutter_tools.94d802f1\flutter_tools_chrome_device.64d93e72\Default
+2026-09-13 04:53:11.503: [INFO] Profiles total count: 1
+2026-09-13 04:53:11.503: [INFO] Profile: name=Profile 1 path=C:\Users\anjal\AppData\Local\Temp\flutter_tools.94d802f1\flutter_tools_chrome_device.64d93e72\Default lastActive=null
+2026-09-13 04:53:11.503: [INFO] LastUsedProfileDir: C:\Users\anjal\AppData\Local\Temp\flutter_tools.94d802f1\flutter_tools_chrome_device.64d93e72\Default
+2026-09-13 04:53:11.503: [INFO] VisibilityChanged: 0
+2026-09-13 04:53:11.665: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-09-13 04:53:11.667: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-09-13 04:53:11.669: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-09-13 04:53:11.670: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-09-13 04:53:11.672: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-09-13 04:53:11.674: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-09-13 04:53:11.677: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-09-13 04:53:11.679: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-09-13 04:53:11.681: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-09-13 04:53:11.683: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-09-13 04:53:11.714: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-13 04:53:11.714: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-13 04:53:11.715: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-13 04:53:11.715: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 04:53:11.715: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 04:53:11.715: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 04:53:11.715: [INFO] BookmarksSnapshot Startup total=3 bar=3 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 04:53:11.720: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-09-13 04:53:17.231: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-09-13 04:53:17.263: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-09-13 04:53:17.290: [INFO] Primary account changed.
+2026-09-13 04:53:17.290: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-09-13 04:53:17.306: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-09-13 04:53:17.355: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-09-13 04:53:36.680: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-13 04:53:36.682: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-13 04:53:36.684: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-13 04:53:36.685: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-13 04:53:36.685: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-13 04:53:41.368: [INFO] Sync initialization duration: 23385ms
+2026-09-13 05:02:03.471: [INFO] BookmarksSnapshot Shutdown total=7 bar=8 other=0 mobile=0 showBar=0 showBarNTP=1
